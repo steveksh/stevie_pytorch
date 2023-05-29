@@ -9,6 +9,4 @@ Regardless, it prompted me the idea of learning PyTorch, so here I am!
 
 
 ## 
-![torch](https://cdn.analyticsvidhya.com/wp-content/uploads/2018/02/pytorch-logo-flat-300x210.png)
-
-<img src="https://keras.io/img/logo-k-keras-wb.png" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="50%" height="50%">
