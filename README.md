@@ -9,4 +9,4 @@ Regardless, it prompted me the idea of learning PyTorch, so here I am!
 
 
 ## 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="500" height="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="50%" height="50%">
